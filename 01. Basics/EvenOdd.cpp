@@ -11,4 +11,6 @@ int main(){
     }else{
         cout<<n<<" is Odd"<<endl;
     }
+
+    return 0;
 }
