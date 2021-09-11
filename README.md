@@ -1,2 +1,6 @@
 # DSA-Toolbox
 This is my personal Data Structures and Algorithms toolbox. I put up all those things I learn in DSA up here. You can refer to the code and contribute to it.
+
+To contribute to the repository you need to create a pull request with a description explaining the improvement. The main reason is that it will help learn better and will be better for documentation.
+
+*__Disclaimer: This is my personal DSA Toolbox, hence, any contribution which I cannot understand will not be merged to main.__*
