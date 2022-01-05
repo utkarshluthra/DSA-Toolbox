@@ -1,4 +1,3 @@
-
 // 001-Reverse the array
 #include <bits/stdc++.h>
 using namespace std;
@@ -14,8 +13,7 @@ void reverseArray(int arr[], int a, int b){
 	}
 }	
 
-int main()
-{
+int main(){
     int n;
     cout<<"Number of elements in array: ";
     cin>>n;
@@ -29,9 +27,7 @@ int main()
     }
     cout<<endl;
 
-
 	reverseArray(arr, 0, n-1);
-
 
     for (int i=0; i<n; i++){
         cout<<arr[i]<<" ";
@@ -40,6 +36,4 @@ int main()
 	return 0;
 }
 
-//Write code here:
 // Solution complexity = O(n)
-            
