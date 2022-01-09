@@ -29,8 +29,6 @@ int arr[5]={0,1,2,3,4}
 3. Find the 'Kth' max and min element in the array
 4. Given an array which consists of only 0, 1, and 2, sort the array without using any sorting algorithm
 5. Move all the negative elements to one side of the array
-6. Find the union and intersections of the two arrays
-5. Write a program to cyclically rotate an array by one.
 6. *Find the largest sum contiguous sub-array*
 7. *Minimise the maximum difference between heights*
 8. Mininimum number of jumps to reach end of an array/
@@ -59,3 +57,5 @@ int arr[5]={0,1,2,3,4}
 31. Minimum number of operations required to make an array palindromic
 32. Median of 2 sorted arrays of equal size
 33. Median of 2 sorted arrays of different size
+34. Find the union and intersections of the two arrays
+35. Write a program to cyclically rotate an array by one.
