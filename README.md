@@ -5,4 +5,6 @@ This is my personal Data Structures and Algorithms toolbox. I put up all those t
 
 To contribute to the repository you need to create a pull request with a description explaining the improvement. The main reason is that it will help learn better and will be better for documentation.
 
+ALL TOPICS HAVE BEEN ARRANGED PROPERLY. KINDLY RAISE AN ISSUE IF ANYTHING ELSE IS REQUIRED.
+
 *__Disclaimer: This is my personal DSA Toolbox, hence, any contribution which I cannot understand will not be merged to main.__*
